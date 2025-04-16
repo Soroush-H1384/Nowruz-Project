@@ -1,0 +1,304 @@
+[
+    {
+        "Firstname": "Mohsen",
+        "Role": "Singer",
+        "Email": "mohsenlorestani@example.com",
+        "Username": "SINGER1",
+        "Lastname": "Lorestani",
+        "Age": 40,
+        "Password": "111111",
+        "Albums": [
+            {
+                "Musics": [
+                    {
+                        "MusicName": "Bache Naneh",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 12
+                    },
+                    {
+                        "MusicName": "Na Refigh",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 10
+                    },
+                    {
+                        "MusicName": "Dokhtare shar",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 35
+                    },
+                    {
+                        "MusicName": "newMusic22",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 7
+                    }
+                ],
+                "AlbumName": "Single-Track",
+                "SingerName": "Mohsen Lorestani"
+            },
+            {
+                "Musics": [
+                    {
+                        "MusicName": "Album1Music1",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 24
+                    },
+                    {
+                        "MusicName": "Album1Music2",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 16
+                    },
+                    {
+                        "MusicName": "Album1Music3",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 3
+                    }
+                ],
+                "AlbumName": "newAlbum1",
+                "SingerName": "Mohsen Lorestani"
+            },
+            {
+                "Musics": [
+                    {
+                        "MusicName": "Album2Music1",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 0
+                    },
+                    {
+                        "MusicName": "Album2Music2",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 0
+                    },
+                    {
+                        "MusicName": "Album2Music3",
+                        "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                        "Comments": [],
+                        "MusicView": 0
+                    }
+                ],
+                "AlbumName": "newAlbum2",
+                "SingerName": "Mohsen Lorestani"
+            }
+        ]
+    },
+    {
+        "Firstname": "Mohsen",
+        "Role": "Singer",
+        "Email": "mohsenchavoshi@example.com",
+        "Username": "SINGER2",
+        "Lastname": "Chavoshi",
+        "Age": 45,
+        "Password": "222222",
+        "Albums": [{
+            "Musics": [
+                {
+                    "MusicName": "Maleka",
+                    "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                    "Comments": [],
+                    "MusicView": 0
+                },
+                {
+                    "MusicName": "Koli",
+                    "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                    "Comments": [],
+                    "MusicView": 0
+                },
+                {
+                    "MusicName": "Afsar",
+                    "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                    "Comments": [],
+                    "MusicView": 0
+                }
+            ],
+            "AlbumName": "Single-Track",
+            "SingerName": "Mohsen Chavoshi"
+        }]
+    },
+    {
+        "Firstname": "Reza",
+        "Role": "Singer",
+        "Email": "rezasadeghi@example.com",
+        "Username": "SINGER3",
+        "Lastname": "Sadeghi",
+        "Age": 45,
+        "Password": "333333",
+        "Albums": [{
+            "Musics": [
+                {
+                    "MusicName": "Nafas",
+                    "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                    "Comments": [],
+                    "MusicView": 0
+                },
+                {
+                    "MusicName": "Hale Baroon",
+                    "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                    "Comments": [],
+                    "MusicView": 0
+                },
+                {
+                    "MusicName": "Mano Yadet",
+                    "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                    "Comments": [],
+                    "MusicView": 0
+                }
+            ],
+            "AlbumName": "Single-Track",
+            "SingerName": "Reza Sadeghi"
+        }]
+    },
+    {
+        "Firstname": "Siavash",
+        "Role": "Singer",
+        "Email": "siavashghomayshi@example.com",
+        "Username": "SINGER4",
+        "Lastname": "Ghomayshi",
+        "Age": 79,
+        "Password": "444444",
+        "Albums": [{
+            "Musics": [
+                {
+                    "MusicName": "Ashegh",
+                    "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                    "Comments": [],
+                    "MusicView": 0
+                },
+                {
+                    "MusicName": "Farangis",
+                    "MusicText": "SLorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                    "Comments": [],
+                    "MusicView": 0
+                },
+                {
+                    "MusicName": "Jazireh",
+                    "MusicText": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex.",
+                    "Comments": [],
+                    "MusicView": 0
+                }
+            ],
+            "AlbumName": "Single-Track",
+            "SingerName": "Siavash Ghomayshi"
+        }]
+    },
+    {
+        "Firstname": "Alice",
+        "Role": "Singer",
+        "Email": "alice@example.com",
+        "Username": "alice1",
+        "Lastname": "Smith",
+        "Age": 30,
+        "Password": "alicePass",
+        "Albums": []
+    },
+    {
+        "Firstname": "Alice",
+        "Role": "Singer",
+        "Email": "alice@example.com",
+        "Username": "alice1",
+        "Lastname": "Smith",
+        "Age": 30,
+        "Password": "123456",
+        "Albums": []
+    },
+    {
+        "Firstname": "Mohsen",
+        "Role": "Singer",
+        "Email": "mohsenchavoshi@gmail.com",
+        "Username": "SINGER2",
+        "Lastname": "Chavoshi",
+        "Age": 45,
+        "Password": "123456",
+        "Albums": []
+    },
+    {
+        "Firstname": "Armin",
+        "Role": "Singer",
+        "Email": "arminzarei@gmail.com",
+        "Username": "SINGER5",
+        "Lastname": "Zarei",
+        "Age": 36,
+        "Password": "111111",
+        "Albums": [
+            {
+                "Musics": [],
+                "AlbumName": "Dooset",
+                "SingerName": "Armin Zarei"
+            },
+            {
+                "Musics": [],
+                "AlbumName": "Dooset-Daram",
+                "SingerName": "Armin Zarei"
+            },
+            {
+                "Musics": [],
+                "AlbumName": "Naze-Shastam",
+                "SingerName": "Armin Zarei"
+            },
+            {
+                "Musics": [],
+                "AlbumName": "Shomare-Jadidam",
+                "SingerName": "Armin Zarei"
+            }
+        ]
+    },
+    {
+        "Firstname": "Mohsen",
+        "Role": "Singer",
+        "Email": "mohsenchavoshi@gmail.com",
+        "Username": "SINGER2",
+        "Lastname": "Chavoshi",
+        "Age": 45,
+        "Password": "123456",
+        "Albums": []
+    },
+    {
+        "Firstname": "Mohsen",
+        "Role": "Singer",
+        "Email": "mohsenchavoshi@gmail.com",
+        "Username": "SINGER2",
+        "Lastname": "Chavoshi",
+        "Age": 45,
+        "Password": "123456",
+        "Albums": []
+    },
+    {
+        "Firstname": "Mohsen",
+        "Role": "Singer",
+        "Email": "mohsenchavoshi@gmail.com",
+        "Username": "SINGER2",
+        "Lastname": "Chavoshi",
+        "Age": 45,
+        "Password": "123456",
+        "Albums": []
+    },
+    {
+        "Firstname": "Soroush",
+        "Role": "User",
+        "Email": "sh16pour@gmail.com",
+        "FollowedSingers": [{
+            "SingerPassword": "123456",
+            "SingerAge": 45,
+            "SingerEmail": "mohsenchavoshi@gmail.com",
+            "SingerFirstname": "Mohsen",
+            "SingerUsername": "SINGER2",
+            "SingerLastname": "Chavoshi"
+        }],
+        "Username": "USER1",
+        "Comments": [{
+            "CommentText": "Great song!",
+            "CommentTime": "2025-04-15  13:50:42",
+            "CommentTitle": "Loved it"
+        }],
+        "Lastname": "Heydarpour",
+        "Age": 19,
+        "Password": "123456",
+        "FavoriteMusics": []
+    }
+]
