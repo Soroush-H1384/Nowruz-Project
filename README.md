@@ -1,23 +1,17 @@
-# Genius Project  
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/88c233bc-d6e2-499b-bde0-43ca5147cb61" width="500">
-</p>
-A Java-based application inspired by Genius.com, designed for managing song lyrics, artist profiles, and user contributions.   
+# Muext !!!!
+This is an application for saving and displaying song lyrics. Users of this app can also edit these lyrics.
+## Key Features
+1- **Artist Management:**
+  - Artists can add new albums
+  - Artists can add new songs to albums
+- **Music Discovery:**
+  - Browse albums and songs by artist
+- **Popularity Tracking:**
+  - Songs displayed by view count (most viewed first)
 
-## Getting Started  
-Refer to the **project documentation** for full details on requirements, implementation guidelines, and evaluation criteria.  
-
-📄 **[Read the full project doc](https://github.com/Advanced-Programming-1403/Nowruz-Project/blob/main/Advanced%20Programming%20-%20Eid%20Project%20Doc.pdf)**  
-
-## Setup  
-- Ensure Java and Maven/Gradle are installed  
-- Clone/fork this repository and follow the setup instructions in the documentation  
-
-## Contribution & Evaluation  
-- Follow OOP principles and clean code practices  
-- Use Git for version control and meaningful commit messages  
-
-For additional details, refer to the **documentation**. 🚀  
-
-
-**good luck and keep on learning!**
+2- **User Management:**
+- Users can see most viewed music
+- Users can follow artists
+- Users can like musics
+- Users can send comment for musics
+- Users can change imformation like password
